@@ -1,0 +1,41 @@
+#k-nav
+{
+    background-color: #2D2D2D;
+}
+
+.outerbox{
+    background-color: #2B478B;
+}
+
+.innerbox{
+    background-color: white;
+}
+
+.mainhead{
+    color:#2B478B ;
+    text-align: center;
+    font-size: 350%;
+    padding-top: 4%;
+}
+
+p{
+    text-align: center;
+    padding: 0% 5%;
+}
+
+.illustration{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.IFSC-form{
+    padding: 4% 0% 2% 0%;
+}
+
+.form-box{
+    border-radius: 20%;
+    color: #EBE9E9;
+}
+
